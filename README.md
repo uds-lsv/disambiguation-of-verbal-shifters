@@ -12,12 +12,8 @@ The subdirectory Annotation contains the annotation of the ambiguous shifters in
 There are two class labels:
 "s" means that in the respective sentence the ambiguous shifter functions as a genuine shifter, whereas "n" means that in the respective sentence the ambiguous shifter does not function as a shifter.
 
-# license
-This dataset is free to use for research purposes.
-If you use it for your research, please acknowledge this software by citing Wiegand et al. (2018). 
-(Full bibliographic information, see reference below.)
-
-If you intend to use this dataset for commercial purposes, please contact the owner of this resource (see contact information).
+# attribution
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/disambiguation-of-verbal-shifters/blob/master/LICENSE).
 
 
 # acknowledgments
